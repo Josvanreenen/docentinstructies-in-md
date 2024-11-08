@@ -50,3 +50,7 @@ Nogmaals: laat de studenten actief meedoen!
 3. **3e uur: kijk eens naar de leerdoelen in het verantwoordingsdocument, welke hebben we al geraakt?**
 
 Op deze manier hebben de studenten allemaal een 1e basis van het maken van lit-element components te pakken zonder dat ze de onderliggende HTMLElement extension overslaan. De lessen hierop gaan ze de fietscasus bouwen waarbij ze deze technieken al gaan toepassen. RxJs en routing valt te bespreken tijdens sprint 1, dat hebben we daar pas nodig omdat we dan met meerdere "pagina's" willen gaan werken en een centrale store nuttig gaat blijken. [Vite](/Vite.pptx) passen we vooral gewoon toe en de javascript modules slides zijn naslagwerk.
+
+- [Docentinstructies algemeen](/docentinstructies.md)
+- [Front End Training](/front%20end%20training.md)
+- [Requirements Engineering icm methodisch werken](/requirements%20engineering%20training.md)

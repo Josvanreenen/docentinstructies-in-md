@@ -51,3 +51,8 @@ In dit deel van de 1e drie weken kennen we een zestal dagdelen die we als volgt 
 3. **3e uur: Voorbereiden op de opdrachtgever dag**
 
 Als het goed is maken ze nu dus fouten. Omdat het veel belangrijker is dat ze goed Stories & taken kunnen opzetten (incl goede DoR, DoD en opsplitsing in taken) die inspelen op de milestone en de stakeholders (zie de rubrieken) dan dat ze aan hun technische skills werken is het essentieel dat ze in de klas het huiswerk maken. Sommige teams gaan veel te snel klaar zijn, anderen doen er veel te lang over, wat is er dan mis met je taak? Is de story wel helder? Heb je voorzien dat je iets eerst nog moest leren? Er zit nu dus maar 3,5 uurtjes aan front end development in effectief per team.
+
+
+- [Docentinstructies algemeen](/docentinstructies.md)
+- [Front End Training](/front%20end%20training.md)
+- [Requirements Engineering icm methodisch werken](/requirements%20engineering%20training.md)

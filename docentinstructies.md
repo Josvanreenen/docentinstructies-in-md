@@ -30,3 +30,7 @@ De belangrijkste vragen voor het eerste uur zullen zijn:
 - Hoe realiseren we een frontend die we publiek toegankelijk kunnen deployen (GitHub Pages / Azure)?
 
 Zie ook de docentinstructie bij de modules aub!
+
+- [Docentinstructies algemeen](/docentinstructies.md)
+- [Front End Training](/front%20end%20training.md)
+- [Requirements Engineering icm methodisch werken](/requirements%20engineering%20training.md)
